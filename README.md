@@ -8,9 +8,9 @@
  
 ## Control Flow Graph
 
-Графот е конструиран на база на броевите на соодветните јазли кои се обележани и прикачени во документот SI_Lab2_186040.txt
+Графот е конструиран на база на броевите на соодветните јазли кои се обележани и прикачени во документот SI_Lab2_186113.txt
 
-![](https://github.com/filippetrovski-si/SI_lab2_186040/blob/master/control%20flow%20graph.png)
+![](https://github.com/NikolaDimovski/SI_lab2_186113/blob/main/control%20flow%20graph.png)
 
 ## Цикломатска комплексност
 
@@ -22,15 +22,15 @@
 
 Во овој критериум се земаат во предвид сите делови од кодот каде имаме услов со 2 или повеќе можности. Во мојот код постојат само 2 такви if циклуси кои го исполнуваат дадениот услов.
 
-![](https://github.com/filippetrovski-si/SI_lab2_186040/blob/master/multiple1.png)
-![](https://github.com/filippetrovski-si/SI_lab2_186040/blob/master/multiple2.png)
+![](https://github.com/NikolaDimovski/SI_lab2_186113/blob/main/multiple1.png)
+![](https://github.com/NikolaDimovski/SI_lab2_186113/blob/main/multiple2.png)
 
 
 ## Тест случаи според критериумот Every branch
 
 Целта на овај критериум е да се измине секоја гранка од графот. На сликата се прикажани сите гранки и соодветно дефинирани тест случаи.Во мојот код постојат само 2 if циклуси кои го исполнуваат дадениот услов.
 
-![](https://github.com/filippetrovski-si/SI_lab2_186040/blob/master/everybranch.png)
+![](https://github.com/NikolaDimovski/SI_lab2_186113/blob/main/everybranch.png)
 
 
 ## Објаснување на напишаните unit tests
